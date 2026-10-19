@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "f679",
+      "name": "Luz Dietrich"
+    },
+    {
+      "id": "d080",
+      "name": "Faith Halvorson"
+    },
+    {
+      "id": "4efc",
+      "name": "Brent Prosacco DVM"
+    },
+    {
+      "id": "1359",
+      "name": "Tara Lehner"
+    },
+    {
+      "id": "663c",
+      "name": "Lindsay MacGyver"
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Hiking Trip",
+      "userId": "f679"
+    },
+    {
+      "id": "ca74",
+      "userId": "f679",
+      "title": "Bespoke Fresh Car"
+    },
+    {
+      "id": "625d",
+      "userId": "f679",
+      "title": "Ergonomic Fresh Bacon"
+    }
+  ],
+  "photos": [
+    {
+      "id": "934d",
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=74251"
+    },
+    {
+      "id": "91bc",
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=90074"
+    },
+    {
+      "id": "6f38",
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=38861"
+    },
+    {
+      "id": "5b17",
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=63723"
+    },
+    {
+      "id": "2042",
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=75783"
+    }
+  ]
+}
